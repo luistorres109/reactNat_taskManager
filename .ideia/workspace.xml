@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e645708-03da-48ea-9d2d-5c8cc96930c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/CIconSelect/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CIconSelect/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CPrioritySelect/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CPrioritySelect/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/tasks.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/ITask.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/SHome/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/SHome/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/STask/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/STask/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/localStorage.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2w0VvqOuH2zUbA4WhfzrOoNpfaw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Repositórios\ProjetosRN\ApostilaReactNative\src" />
+      <recent name="C:\Users\User\Documents\Repositórios\ProjetosRN\ApostilaReactNative\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e645708-03da-48ea-9d2d-5c8cc96930c4" name="Changes" comment="" />
+      <created>1745178713169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745178713169</updated>
+    </task>
+    <servers />
+  </component>
+</project>
