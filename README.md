@@ -27,8 +27,9 @@ Um aplicativo simples de gerenciamento de tarefas desenvolvido em **React Native
 
 ### Pré-requisitos
 
-- Node.js (v18 ou superior)
+- Node.js (v20.17.0 ou superior)
 - Expo CLI instalado globalmente:
+
 ```bash
 npm install -g expo-cli
 ```
