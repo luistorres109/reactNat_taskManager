@@ -248,3 +248,15 @@ export const ButtonRow = styled.View`
   gap: ${RFValue(10)}px;
   margin-top: ${RFValue(10)}px;
 `;
+
+export const ImageContainer = styled.View`
+  justify-content: center;
+  align-items: center;
+  padding: ${RFValue(20)}px;
+`;
+
+export const EmptyMessage = styled.Text`
+  margin-top: ${RFValue(10)}px;
+  font-size: ${RFValue(14)}px;
+  color: #999;
+`;
